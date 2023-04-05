@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-/*Consolidated all the code below this line*/
+/*Consolidated all the code below this line. Nhan helped me point out simplifying the code*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
